@@ -36,3 +36,8 @@ docker-compose down -v
 ## Production usage
 
 > Please do not use this in production unless you know what you're doing. This repo was created to setup a local development environment for Elastic free softwares.
+
+## References
+
+- https://github.com/deviantony/docker-elk
+- https://github.com/shazChaudhry/docker-elastic
